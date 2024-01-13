@@ -1,10 +1,10 @@
 # Structured-Review-of-Machine-Learning-Control-of-Lower-Limb-Exoskeletons
 
-# Joint Torque
+## Joint Torque
 
-# Motion Intent
+## Motion Intent
 
-# Joint Trajectory
+## Joint Trajectory
 
-# Gait Phase
+## Gait Phase
 
