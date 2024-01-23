@@ -23,6 +23,7 @@ Each technique outlined below is presented through a radar chart, assessing it a
 2. Personalizing exoskeleton assistance while walking in the real world. [[Paper]](https://www.nature.com/articles/s41586-022-05191-1). `Author: Slade et al.`
 
 <img width="448" alt="image" src="https://github.com/PanchalM19/Structured-Review-of-Machine-Learning-Control-of-Lower-Limb-Exoskeletons/assets/115374409/5dc4180c-9abf-4c6c-adf4-b38f63e46eac">
+<img width="151" alt="image" src="https://github.com/PanchalM19/Structured-Review-of-Machine-Learning-Control-of-Lower-Limb-Exoskeletons/assets/115374409/4646a2bc-4c47-477f-9736-a6419fd91787">
 
 
 ### Motion Intent
@@ -31,6 +32,7 @@ Each technique outlined below is presented through a radar chart, assessing it a
 3. Soft wearable flexible bioelectronics integrated with an ankle-foot exoskeleton for estimation of metabolic costs and physical effort. [[Paper]](https://www.nature.com/articles/s41528-023-00239-2). `Author: Kim Jihoon et al.`
 
 <img width="451" alt="image" src="https://github.com/PanchalM19/Structured-Review-of-Machine-Learning-Control-of-Lower-Limb-Exoskeletons/assets/115374409/b9878be4-e3e5-4943-937f-0d5de70e9a4b">
+<img width="151" alt="image" src="https://github.com/PanchalM19/Structured-Review-of-Machine-Learning-Control-of-Lower-Limb-Exoskeletons/assets/115374409/e1b5b053-8467-4241-9674-8a7db1a7b983">
 
 
 ### Joint Trajectory
@@ -41,6 +43,7 @@ Each technique outlined below is presented through a radar chart, assessing it a
 5. Neural network-based bounded control of robotic exoskeletons without velocity measurements. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0967066118303964?via%3Dihub). `Author: Jabbari Asl et al.`
 
 <img width="448" alt="image" src="https://github.com/PanchalM19/Structured-Review-of-Machine-Learning-Control-of-Lower-Limb-Exoskeletons/assets/115374409/f25e9a26-3050-4e80-ae36-e541d97daad8">
+<img width="152" alt="image" src="https://github.com/PanchalM19/Structured-Review-of-Machine-Learning-Control-of-Lower-Limb-Exoskeletons/assets/115374409/d39aacc3-ac7a-4ce9-8957-40f68657303e">
 
 
 ### Gait Phase
