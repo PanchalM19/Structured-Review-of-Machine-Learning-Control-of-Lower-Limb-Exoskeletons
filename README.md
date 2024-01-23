@@ -1,8 +1,12 @@
 # Structured-Review-of-Machine-Learning-Control-of-Lower-Limb-Exoskeletons
 
 ## Joint Torque
-1. Robust Torque Predictions From Electromyography Across Multiple Levels of Active Exoskeleton Assistance Despite Non-linear Reorganization of Locomotor Output. Author: George et al. [Paper](https://www.frontiersin.org/articles/10.3389/fnbot.2021.700823/full)
-2. Personalizing exoskeleton assistance while walking in the real world. Author: Slade et al. [Paper](https://www.nature.com/articles/s41586-022-05191-1)
+1. Robust Torque Predictions From Electromyography Across Multiple Levels of Active Exoskeleton Assistance Despite Non-linear Reorganization of Locomotor Output.
+   Author: George et al.
+   [Paper](https://www.frontiersin.org/articles/10.3389/fnbot.2021.700823/full)
+3. Personalizing exoskeleton assistance while walking in the real world.
+   Author: Slade et al.
+   [Paper](https://www.nature.com/articles/s41586-022-05191-1)
 
 ## Motion Intent
 1. Author: Yi Long et al. [Paper](
