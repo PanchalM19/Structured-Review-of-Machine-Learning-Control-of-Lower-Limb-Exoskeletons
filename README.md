@@ -10,7 +10,8 @@
 3. Soft wearable flexible bioelectronics integrated with an ankle-foot exoskeleton for estimation of metabolic costs and physical effort. Author: Kim et al. [Paper](https://www.nature.com/articles/s41528-023-00239-2)
 
 ## Joint Trajectory
-1. Assistive robotic exoskeleton using recurrent neural networks for decision taking for the robust trajectory tracking. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417421017619?via%3Dihub) ######Author: Fuentes-Alvarez et al.
+1. Assistive robotic exoskeleton using recurrent neural networks for decision taking for the robust trajectory tracking. [Paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417421017619?via%3Dihub)
+######Author: Fuentes-Alvarez et al.
 
 ## Gait Phase
 
