@@ -2,7 +2,7 @@
 
 ## Research Paper Links
 ### Joint Torque
-1. Robust Torque Predictions From Electromyography Across Multiple Levels of Active Exoskeleton Assistance Despite Non-linear Reorganization of Locomotor Output. [Paper](https://www.frontiersin.org/articles/10.3389/fnbot.2021.700823/full). `Author: George et al.`
+1. Robust Torque Predictions From Electromyography Across Multiple Levels of Active Exoskeleton Assistance Despite Non-linear Reorganization of Locomotor Output. [[Paper]](https://www.frontiersin.org/articles/10.3389/fnbot.2021.700823/full). `Author: George et al.`
 2. Personalizing exoskeleton assistance while walking in the real world. [Paper](https://www.nature.com/articles/s41586-022-05191-1). `Author: Slade et al.`
 
 ### Motion Intent
