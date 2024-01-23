@@ -2,7 +2,7 @@
 
 ## Joint Torque
 1. Robust Torque Predictions From Electromyography Across Multiple Levels of Active Exoskeleton Assistance Despite Non-linear Reorganization of Locomotor Output.
-  ###### Author: George et al.
+'Author: George et al.'
    [Paper](https://www.frontiersin.org/articles/10.3389/fnbot.2021.700823/full)
 2. Personalizing exoskeleton assistance while walking in the real world.
    Author: Slade et al.
