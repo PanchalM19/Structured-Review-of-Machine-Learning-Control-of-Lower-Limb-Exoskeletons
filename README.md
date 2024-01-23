@@ -61,6 +61,7 @@ Each technique outlined below is presented through a radar chart, assessing it a
 To understand the effects of the different variables, we did a combined literature review of 50 research papers. Out of these, almost all papers were focused on physical trials on healthy subjects in a controlled environment. Hence, there is a need to encourage more real-world experiments to understand how these exoskeletons would interact with the environment. 
 From the survey we carried out in this paper, we can posit that the variables which are most robust are `Motion Intent` and `Joint Position mapping`. With the amount of research that has been going on these variables and the effectiveness of the results obtained by employing ML based control algorithms, it seems that these variables are leading on the track to clinical testing.
 These findings are based on the current research scenario on ML based lower-limb exoskeletons. The other variables that have been discussed like, metabolics and gait phase do not have much literature available as of today. The research in these fields has just begun and it may turn out to be fruitful. 
+
 <img width="446" alt="image" src="https://github.com/PanchalM19/Structured-Review-of-Machine-Learning-Control-of-Lower-Limb-Exoskeletons/assets/115374409/f051cb7c-4179-499b-b61c-0cff2fdb2b6e">
 
 
