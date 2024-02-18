@@ -1,5 +1,14 @@
 # Structured-Review-of-Machine-Learning-Control-of-Lower-Limb-Exoskeletons
-Lower limb exoskeletons are a maturing technology with the potential to reshape mobility by enhancing safety, accessibility, efficiency and convenience of locomotion. The objective of this paper is to survey the current state of the art of machine learning based control of lower-limb exoskeletons. A selection of proposed techniques is reviewed along with a discussion of their effectiveness. The surveyed approaches differ in the output variables from the machine learning algorithms used to control the exoskeletons. The side by side comparison presented in this survey helps to gain insight into the strengths and limitations of the reviewed approaches and assist with system level design choices.
+## Use of OpenSIM
+To analyse the musculoskeletal structure, OpenSIM was utilised to analyse the framework and human crouch gait and predict the modifications and changes that can assist in improving the gait.
+
+<img width="560" alt="image" src="https://github.com/PanchalM19/Structured-Review-of-Machine-Learning-Control-of-Lower-Limb-Exoskeletons/assets/115374409/ab40d43b-ded8-4117-babf-d37144ca4150">
+
+
+## Literature Review
+To understand the effects of the different variables, a combined literature review of 50 research papers. Out of these, almost all papers were focused on physical trials on healthy subjects in a controlled environment. Hence, there is a need to encourage more real-world experiments to understand how these exoskeletons would interact with the environment Lower limb exoskeletons are a maturing technology with the potential to reshape mobility by enhancing safety, accessibility, efficiency and convenience of locomotion. 
+
+The objective of this paper is to survey the current state of the art of machine learning based control of lower-limb exoskeletons. A selection of proposed techniques is reviewed along with a discussion of their effectiveness. The surveyed approaches differ in the output variables from the machine learning algorithms used to control the exoskeletons. The side by side comparison presented in this survey helps to gain insight into the strengths and limitations of the reviewed approaches and assist with system level design choices.
 
 <img width="449" alt="image" src="https://github.com/PanchalM19/Structured-Review-of-Machine-Learning-Control-of-Lower-Limb-Exoskeletons/assets/115374409/aab3d47a-5a84-4fff-81a8-1359a240f489">
 
